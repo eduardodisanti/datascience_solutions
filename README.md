@@ -1,4 +1,4 @@
-# datascience_solutions
+# Datascience solutions
 Solutions to common problems incluiding exams and courses given or taken
 
 | Folder | Topic | Content|
